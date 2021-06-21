@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida durante o NLW/Together da Rocketseat, destina ao gerenciamento de jogatinas entre amigos
 
-## Intalando dependências
+## Instalando dependências
 Rode o comando
 ```bash
 yarn install
