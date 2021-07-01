@@ -1,6 +1,5 @@
 import React from 'react'
 import { RectButton, RectButtonProps } from 'react-native-gesture-handler'
-import { useNavigation } from '@react-navigation/native'
 import { LinearGradient } from 'expo-linear-gradient'
 import { SvgProps } from 'react-native-svg'
 import { View, Text } from 'react-native'

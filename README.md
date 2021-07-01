@@ -7,6 +7,10 @@ Rode o comando
 ```bash
 yarn install
 ```
+## Configuração
+
+Renomei o arquivo ".env.example" para ".env" e atribua os valores das variaveis de ambiente.
+
 ## Rodando com expo
 Rode o comando
 ```bash
